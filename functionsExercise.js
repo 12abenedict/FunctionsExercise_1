@@ -172,4 +172,4 @@ caps = (string) => {
     }
     return newString;
 }
-console.log(caps(`Hello World`));
+console.log(caps(`Hello Worlddddddddd`));
